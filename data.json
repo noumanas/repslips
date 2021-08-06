@@ -1,0 +1,108 @@
+{
+	"all_receipt": [
+		{
+			"total": "320.99",
+			"products": [{
+				"product": "Hand Towel",
+				"price": "5.88",
+			},
+			{
+				"product": "Gatorade",
+				"price": "150.99",
+				"featured": true
+			},
+			{
+				"product": "T-Shirt",
+				"price": "150",
+			},
+			{
+				"product": "Pins",
+				"price": "14.12"
+			}]
+		},
+		{
+			"total": "320.99",
+			"products": [{
+				"product": "Roller Blades",
+				"price": "5.88",
+			},
+			{
+				"product": "Helmart",
+				"price": "150.99",
+				"featured": true
+			},
+			{
+				"product": "Books",
+				"price": "150",
+				"featured":true
+			},
+			{
+				"product": "Batteres",
+				"price": "14.12"
+			}]
+		},		
+	],
+	"recent_receipt": [
+		{
+			"total": "320.99",
+			"products": [{
+				"product": "Hand Towel",
+				"price": "5.88",
+			},
+			{
+				"product": "Gatorade",
+				"price": "150.99"
+			},
+			{
+				"product": "T-Shirt",
+				"price": "150",
+			},
+			{
+				"product": "Pins",
+				"price": "14.12"
+			}]
+		}
+	],
+	"featured_receipt": [
+		{
+			"total": "320.99",
+			"products": [{
+				"product": "Hand Towel",
+				"price": "5.88",
+			},
+			{
+				"product": "Gatorade",
+				"price": "150.99"
+			},
+			{
+				"product": "T-Shirt",
+				"price": "150",
+			},
+			{
+				"product": "Pins",
+				"price": "14.12"
+			}]
+		}
+	],
+	"taxes_receipt": [
+		{
+			"total": "320.99",
+			"products": [{
+				"product": "Hand Towel",
+				"price": "5.88",
+			},
+			{
+				"product": "Gatorade",
+				"price": "150.99"
+			},
+			{
+				"product": "T-Shirt",
+				"price": "150",
+			},
+			{
+				"product": "Pins",
+				"price": "14.12"
+			}]
+		}
+	]			
+}
